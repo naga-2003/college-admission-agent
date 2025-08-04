@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head><title>College Admission Agent</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <h1>Ask Admission Questions</h1>
+  <input type="text" id="q" placeholder="Enter your question" size="50"/>
+  <button onclick="ask()">Ask</button>
+  <pre id="ans" style="margin-top:20px;"></pre>
+
+<script>
+async function ask() {
+  const q = document.getElementById("q").value;
+  const r = await fetch("/ask", {
+    method: "POST", headers: {"Content-Type":"application/json"},
+    body: JSON.stringify({question: q})
+  });
+  const data = await r.json();
+  document.getElementById("ans").innerText = data.answer || data.error;
+}
+</script>
+</body>
+</html>

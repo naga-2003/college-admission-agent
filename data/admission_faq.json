@@ -1,0 +1,18 @@
+[
+  { "question": "What is the eligibility for B.Tech?", "answer": "You must have completed 12th grade with Physics, Chemistry, and Math." },
+  { "question": "When is the admission deadline?", "answer": "The deadline is typically July 31 each year." },
+  { "question": "Are scholarships available?", "answer": "Merit‑based scholarships are available above 90% aggregate in grade‑12." },
+  { "question": "Is there an entrance exam?", "answer": "Yes, students must qualify in entrance exams like JEE or the university's own entrance test." },
+  { "question": "How can I apply for admission?", "answer": "You can apply online through the official college admission portal." },
+  { "question": "What documents are required during admission?", "answer": "Required documents include 10th and 12th mark sheets, ID proof, photos, and entrance exam scorecard." },
+  { "question": "Is hostel accommodation available?", "answer": "Yes, separate hostels for boys and girls are available with various room options." },
+  { "question": "What is the annual tuition fee for B.Tech?", "answer": "The tuition fee ranges from ₹1,00,000 to ₹1,50,000 per year depending on the department." },
+  { "question": "Is lateral entry allowed?", "answer": "Yes, diploma holders can apply for direct second-year admission through lateral entry." },
+  { "question": "Can I change my branch after the first year?", "answer": "Branch change is allowed based on academic performance and availability of seats." },
+  { "question": "Is there placement assistance?", "answer": "Yes, the college has a dedicated placement cell to help students get jobs after graduation." },
+  { "question": "What languages are used in classroom teaching?", "answer": "English is the primary medium of instruction." },
+  { "question": "Is there a dress code for students?", "answer": "Yes, students are expected to wear formal or college uniforms on academic days." },
+  { "question": "Are there any cultural or tech festivals?", "answer": "Yes, the college hosts annual cultural and technical fests with student participation." },
+  { "question": "Can I pay fees in installments?", "answer": "Yes, the college allows semester-wise or monthly fee payment options." },
+  { "question": "Is there a medical facility on campus?", "answer": "Yes, an on-campus medical center is available for first aid and health consultations." }
+]
